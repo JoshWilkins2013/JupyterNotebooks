@@ -1,7 +1,7 @@
-# JupyterNotebooks
+# Jupyter Notebooks
 
-Collection of miscellaneous analyses done in jupyter
-See here for the binder (A jupyter server hosting these files!):
+Collection of miscellaneous analyses done in jupyter.<br>
+See here for the binder (A jupyter server hosting these files!):<br>
 https://hub.mybinder.org/user/joshwilkins2013-jupyternotebooks-fkoz5x28/tree
 
 ## Output Power Controller
