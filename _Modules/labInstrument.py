@@ -16,7 +16,7 @@ class csvData(object):
     
     def __init__(self, fileName):
         # Extracts the header and stores the filePath
-        self.fileName = '.\\Data\\' + fileName
+        self.fileName = 'Data/' + fileName
         self.head = self.__getHeader() # Extract header (Array)
         
     def __getHeader(self):
