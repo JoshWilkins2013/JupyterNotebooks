@@ -1,8 +1,9 @@
 # Jupyter Notebooks
 
 Collection of miscellaneous analyses done in jupyter.<br>
-See here for the binder (A jupyter server hosting these files!):<br>
-https://hub.mybinder.org/user/joshwilkins2013-jupyternotebooks-fkoz5x28/tree
+See the <a href="https://hub.mybinder.org/user/joshwilkins2013-jupyternotebooks-fkoz5x28/tree">binder</a> (A jupyter server hosting these files!):<br>
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/JoshWilkins2013/JupyterNotebooks/master)
+
 
 ## Output Power Controller
 
@@ -19,3 +20,13 @@ the signal to reduce this error.
 
 Given a stepped input, the output at the 'hold' regions (transient responses) are captured. 
 The script returns two csv files; The averaged results and the transient responses.
+
+## Alternative Phase Noise Measurement System
+
+An alternative approach to measuring phase noise. Used when the noise floor of your instruments are higher
+than the device you are trying to measure.
+
+## Temperature Dependency
+
+Approximating the temperature dependency of a synthesizer. Characterized the bandpass filter within the synthesizer 
+since it was expected to have the greatest contribution to the synthesizer's temperature dependency.
