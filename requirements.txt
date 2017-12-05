@@ -1,5 +1,3 @@
-csv
-sys
 numpy
 scipy
 pandas
