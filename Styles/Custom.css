@@ -1,0 +1,21 @@
+<style>
+    div.cell{
+        width: 90%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+	.output_png{
+		text-align: center;
+		margin-left:auto;
+        margin-right:auto;
+	}
+    div.text_cell_render{
+        font-size: 120%;
+        width: 95%;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .prompt{
+        display: None;
+    }
+</style>
